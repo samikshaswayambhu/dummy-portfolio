@@ -1,0 +1,217 @@
+.header{
+  height: 10vw;
+  width: 100%;
+  background-color: #ddf3f5;
+}
+.sub-header{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.nav-link{
+  padding: 1.5vw;
+}
+body{
+  background-color:white ;
+  align-items: center;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 1.5vw;
+  margin-bottom: 0;
+  padding-bottom: 0;
+
+}
+.mast-head{
+    background-color:#ddf3f5;
+    height: 30vw;
+    width: 100%;
+    
+  
+}
+.mast-head-source{
+  height: 100%;
+  width: 75%;
+  position: relative;
+  margin: 0 auto 0 auto;
+  
+}
+.major-content{
+  width: 100%;
+  height: 50%;
+  position: absolute;
+  
+}
+.mountain-image-container{
+  background-color:#ddf3f5;
+  text-align: center;
+}
+.heading{
+  width: 100%;
+  height: 50%;
+  margin-bottom: 0.52vw;
+  text-align: center;
+}
+.sub-heading{
+  width: 100%;
+  height: 50%;
+  margin-top: 0.52vw;
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+  color: #51adcf;
+  font-size: 2vw;
+}
+h2{
+  font-family: 'Comfortaa', cursive;
+  color: #51adcf;
+  font-size: 2vw;
+}
+h1{
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-family: ;
+  font-size: 7vw;
+  color:#51adcf;
+  margin-bottom: 2.1008vw;
+}
+.bottom-container{
+  height: 16.806vw;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border: 0;
+  background-color: #ddf3f5;
+  color: white;
+}
+.middle-container{
+  margin-bottom: 21.008vw;
+}
+.profile{
+  padding-bottom: 42.061vw;
+}
+.my-profile-icon{
+ 
+  border-radius: 6.302vw;
+  margin-top: 15.75vw;
+  border-radius: 100%;
+  background-color:#ddf3f5 ;
+  width: 20%;
+}
+.mountain-image{
+  margin: 0;
+  border: 0;
+  width: 100%;
+}
+.hobbies{
+  margin-top: 10.504vw;
+}
+.book-image{
+  border-radius: 6.302;
+  border-radius: 100%;
+  background-color:#ddf3f5;
+  width: 20%;
+  
+  
+}
+.airplane-image{
+ 
+  border-radius: 100%;
+  background-color:#ddf3f5;
+  width: 20%;
+  
+}
+.web-development-image{
+  
+  border-radius: 100%;
+  background-color:#ddf3f5;
+  width: 20%;
+ 
+}
+.hobby-row{
+  padding-top: 16.806vw;
+}
+
+.movie-image{
+  border-radius: 100%;
+  background-color:#d7fffd;
+  width: 20%;
+
+}
+
+.myButton {
+	background-color:rgba(81, 173, 207, 1);
+	border-radius:2.941vw;
+	border:0.105vw solid #a5ecd7;
+	display:inline-block;
+	cursor:pointer;
+	color:white;
+	font-family:montserrat;
+	font-size:1.785vw;
+	padding:1.68vw 3.256vw;
+	text-decoration:none;
+	text-shadow:0px 0.105vw 0px #a5ecd7;
+}
+.myButton:hover {
+	background-color:rgba(81, 173, 207, 0.9);
+}
+.myButton:active {
+	position:relative;
+	top:0.105vw;
+}
+.{
+  color: white;
+}
+
+.first-line{
+  width: 50%;
+  margin-top: 21.008vw;
+  border: ;
+  border-style: dotted;
+  border-width: 0.8vw;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: #51adcf;
+}
+
+.small-line{
+  width: 20%;
+  margin-top: 21.008vw;
+  border: ;
+  border-style: dotted;
+  border-width: 0.8vw;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: #51adcf;
+}
+.footer-link{
+  padding: 0.525vw;
+}
+.nav-link{
+  text-decoration: none;
+  color:#51adcf ;
+  font-size: 2vw;
+  
+
+
+}
+.nav-link:hover{
+  color: white;
+  text-decoration: underline;
+}
+.cusat{
+  color: #51adcf;
+  text-decoration: none;
+}
+.cusat:hover{
+  color:white;
+  background-color:#51adcf ;
+
+}
+.fimage{
+  width: 5%;
+}
+
